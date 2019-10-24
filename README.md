@@ -1,3 +1,3 @@
 # Danimarka Eğitim Sistemi
 
-Danimarka Eğitim Sistemi hakkında hazırladığım bir makale
+Danimarka Eğitim Sistemi hakkında hazırladığım bir makale. Dosyaya şuradan erişebilirsiniz: [danimarka-egitim-sistemi.md]()

@@ -2,13 +2,13 @@
 
 Hacettepe Üniversitesi, Türkiye
 
-## Öz
+### Öz
 
 Bu çalışmada Danimarka eğitim sistemi hakkında bilgi verilip Türkiye eğitim sistemiyle karşılaştırılması amaçlanmıştır. Çalışmada; eğitim sistemin temel özellikleri, eğitim sisteminin yönetim ve organizasyonu, aşamaları, yapısı, eğitimin finansmanı, zorunlu eğitim durumu, erken çocukluk eğitimi ve bakımı, ilkokul, ortaokul, ortaöğretim, yüksek öğrenim, bu kademeler arası geçiş, yetişkin eğitimi, değerlendirme, evde eğitim ve öğretmen yetiştirme ele alındı. Eğitim sistemine yansımaları, sonuç ve öneriler kısmında Türkiye’de uygulanırsa Türk eğitim sisteminde daha başarılı olmasını sağlayan uygulamalardan bahsedildi. Araştırmada belgesel tarama yöntemi kullanıldı. Danimarka’da okul öncesi eğitim bir yıl boyunca zorunlu olarak uygulanıyor, ulusal testler sayesinde program sürekli geliştiriliyor, öğrenciler başarılı ya da başarısız olarak etiketlenmeden öğrencinin seviyesine uygun eğitim veriliyor, eğitim fakültesine kabul için adayların öğretmenliğe uygun olup olmadığını tespit etmek üzere altı alanda testler yapılıyor, öğretmenlerin işe alımlarında yerel yönetimler sorumlu oluyor, çerçeve programı bakanlıklar hazırlıyor, çerçeve programı yerel yönetimler ve okul kendi ihtiyaçlarına göre genişletiyor, ders kaynakları ücretsiz veriliyor, şartları sağlayan öğrenciler evde eğitim alıyor ve hayat boyu eğitim felsefesinden dolayı yetişkin eğitimine önem veriliyor.
 
 **Anahtar sözcükler:** Danimarka, eğitim sistemi, eğitim programı, Türk eğitim sistemine yansımaları
 
-## Abstract
+### Abstract
 
 This study is aimed to give information about the Danish education system and compare it to the education system in Turkey. In this study, basic features of the education system; management and organization of the education system; stages, structure, financing of education; compulsory education status; early childhood education and care; primary school, secondary school, secondary education, higher education, transition between these levels; adult education; evaluation; home education; and teacher training were discussed. In the reflections on the educational system, conclusions and recommendations part, the applications that could make the Turkish education system more successful if applied in Turkey were mentioned. Documentary screening method was used in the research. In Denmark, the preschool is compulsory for one year, the program is constantly being developed through national tests, students are given appropriate education at the level of the student without being labeled as successful or unsuccessful, tests are conducted to determine whether they are suitable for teaching in six areas for admission to the faculty of education, ministries are responsible for the framework program preparation, the framework program extends according to the needs of local authorities and the school, the course resources are given free of charge, students meeting the conditions receive home education and adult education is paid attention because of the philosophy of lifelong education.
 
